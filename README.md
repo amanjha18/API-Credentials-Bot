@@ -9,10 +9,10 @@ This Python script is designed to build an AI bot that can find API credentials 
 1. Clone or download the repository.
 2. Install the required libraries using the following command:
 
-# pip install -r requirements.txt
+### pip install -r requirements.txt
 3. Run the script using a Python interpreter:
 
-# python app.py
+### python app.py
 4. Enter the URL of the webpage from which you want to extract API credentials.
 5. The script will process the URL and display the extracted API credentials (if present).
 
